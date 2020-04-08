@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mina\\Desktop\\kooli_asjad\\Timo-tund\\server-rakendus\\WebApplication1.csproj": {}
+    "C:\\Users\\Mina\\Desktop\\Azure\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mina\\Desktop\\kooli_asjad\\Timo-tund\\server-rakendus\\WebApplication1.csproj": {
+    "C:\\Users\\Mina\\Desktop\\Azure\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mina\\Desktop\\kooli_asjad\\Timo-tund\\server-rakendus\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\Mina\\Desktop\\Azure\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\Mina\\Desktop\\kooli_asjad\\Timo-tund\\server-rakendus\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\Mina\\Desktop\\Azure\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Mina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mina\\Desktop\\kooli_asjad\\Timo-tund\\server-rakendus\\obj\\",
+        "outputPath": "C:\\Users\\Mina\\Desktop\\Azure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
